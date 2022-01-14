@@ -1,2 +1,2 @@
 # Termux
-### `curl https://raw.githubusercontent.com/maihuybao/runtool/main/termux/setup.sh | bash`
+### `curl https://www.facebook.com/Duy.N01/
